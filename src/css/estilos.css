@@ -40,10 +40,6 @@ main {
     padding: 25px;
 }
 
-.icon {
-    background: none;
-    border: none;
-}
 
 main .listagem-pokemon {
     display: flex;
